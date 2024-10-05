@@ -1,5 +1,5 @@
 # pxb7.com-get-prices-and-statistics
-pxb7.comの商品アドレス、価格、コストパフォーマンスを取得するためのもの。
+pxb7.comの商品アドレス、価格、コストパフォーマンスを取得するためのもの。  
 [ [中文](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README.md) | [English](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README_EN.md) | 日本語 ]
 
 ## イントロダクション

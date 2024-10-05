@@ -1,5 +1,5 @@
 # pxb7.com-get-prices-and-statistics
-针对于pxb7.com的商品地址、价格、性价比获取。
+针对于pxb7.com的商品地址、价格、性价比获取。  
 [ 中文 | [English](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README_EN.md) | [日本語](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README_JP.md) ]
 
 ## 介绍

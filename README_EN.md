@@ -1,5 +1,5 @@
 # pxb7.com-get-prices-and-statistics
-To retrieve product addresses, prices, and cost-effectiveness from pxb7.com.
+To retrieve product addresses, prices, and cost-effectiveness from pxb7.com.  
 [ [中文](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README.md) | English | [日本語](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README_JP.md) ]
 
 ## Introduction
