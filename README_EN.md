@@ -3,7 +3,7 @@ To retrieve product addresses, prices, and cost-effectiveness from pxb7.com.
 [ [中文](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README.md) | English | [日本語](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README_JP.md) ]
 
 ## Introduction
-The script will iterate through all the products on the current page and save key content in groups.
+The script will iterate through all the products on the current page and save key content in groups.  
 The script will check for the format of 'X黄', which indicates how many rare contents are present in the product description. If no match is found, it will not be counted. (You can modify the code as needed, or contact me at reuac@qq.com.)
 
 ## Usage

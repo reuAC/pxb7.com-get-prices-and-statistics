@@ -3,7 +3,7 @@
 [ 中文 | [English](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README_EN.md) | [日本語](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README_JP.md) ]
 
 ## 介绍
-该脚本会遍历当前页面的所有商品，并将关键内容以组为单位保存。
+该脚本会遍历当前页面的所有商品，并将关键内容以组为单位保存。  
 脚本会检测是否存在X黄的格式，即为商品内说明有多少个最稀有内容，若未匹配到，则不会计入。（您可以根据需要修改代码，或以reuac@qq.com与我取得联系）
 
 ## 使用方法

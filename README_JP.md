@@ -3,7 +3,7 @@ pxb7.comの商品アドレス、価格、コストパフォーマンスを取得
 [ [中文](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README.md) | [English](https://github.com/reuAC/pxb7.com-get-prices-and-statistics/blob/re_uAC/README_EN.md) | 日本語 ]
 
 ## イントロダクション
-このスクリプトは、現在のページのすべての商品を巡回し、重要な内容をグループとして保存します。
+このスクリプトは、現在のページのすべての商品を巡回し、重要な内容をグループとして保存します。  
 スクリプトは、商品内の説明にどれだけの最も希少なコンテンツが含まれているかを示す「X黄」の形式が存在するかどうかを検出します。マッチしない場合は、カウントされません。（必要に応じてコードを修正するか、reuac@qq.comまでご連絡ください。）
 
 ## 使用方法
